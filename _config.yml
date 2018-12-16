@@ -8,7 +8,7 @@
 # Site settings
 title: 김백록의 기술블로그
 email: gasterblader@gmail.com
-description:  난 밥을 먹을거다.
+description:  난 밥을 먹을거다...
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://backrog.github.io/" # the base hostname & protocol for your site
 twitter_username: jekyllrb

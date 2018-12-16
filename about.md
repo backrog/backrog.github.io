@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+안녕하세요. 개발자 란면에 창의적 접근을 하고싶은 김백록입니다.
