@@ -1,0 +1,7 @@
+---
+layout: post
+title: "관심사"
+date: 2018-12-16 10:14:45 +0200
+categories: jekyll update
+---
+게임을 하다보니 게임에 대해 다른면에서 이해를 해보고싶었다.
